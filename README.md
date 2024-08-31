@@ -30,6 +30,8 @@ Key Components:
 
 Functionality:
 
-	•	The app fetches appetizer data from a remote server using NetworkManager, displays it in a list using AppetizerListView, and handles user interactions, such as adding items to an order.
+	•	The app fetches appetizer data from a remote server using NetworkManager, displays it in a list using AppetizerListView, and handles user interactions, such as adding items 		to an order.
 	•	Error handling is robust, with clear alerts provided for various failure scenarios.
 	•	The app uses SwiftUI’s declarative syntax to build the UI and leverages @StateObject and @Published properties for state management.
+ Demo
+ 	https://github.com/user-attachments/assets/13b1fa19-6fad-4bf8-b042-77a5efe92d6c
